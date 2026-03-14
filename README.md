@@ -1,4 +1,8 @@
-# Fictisia Labs
+<p align="center">
+  <img src="./assets/fictisia-labs.png" alt="Fictisia Labs Logo" width="500">
+</p>
+
+<h1 align="center">Fictisia Labs</h1>
 
 **Fictisia Labs** é uma organização fictícia criada para o desenvolvimento, experimentação e demonstração de projetos de engenharia de software modernos. A iniciativa tem como propósito estruturar projetos de forma profissional, simulando o funcionamento real de uma empresa de tecnologia que desenvolve plataformas digitais, APIs, ferramentas para desenvolvedores e sistemas escaláveis.
 
